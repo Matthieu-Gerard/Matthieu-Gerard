@@ -11,7 +11,7 @@
   - Simplex algorithm solver for linear problem, 
   - Heuristic for Travelling salesman problem (TSP), 
   - Bactracking algorithm for sudoku,
-  - Feedforward neural network used for instance for MNIST recognition,
+  - Feedforward neural network library used for instance for MNIST recognition,
   - Diverses basic AI that play tic-tac-toe or chess,
   - And more !
 
