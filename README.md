@@ -7,7 +7,7 @@
   
 📫 You could reach me on https://www.linkedin.com/in/matthieu-g%C3%A9rard-a1849416/.
 
-🌱 I will gradually release some basic projects that I implement (and improve) during my personnal time such as: 
+🌱 I will gradually release some basic projects that I implement and improve during my personnal time such as: 
   - Simplex algorithm solver for linear problem, 
   - Heuristic for Travelling salesman problem (TSP), 
   - Bactracking algorithm for sudoku,
