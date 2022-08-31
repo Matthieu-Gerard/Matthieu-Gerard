@@ -1,6 +1,6 @@
 👋 Hi, I’m @Matthieu-Gerard, PhD in combinatorial optimization.
 
-👀 I’m interested in algorithms design in:
+👀 I'm interested in designing algorithms in:
   - Operations Research OR, 
   - Machine Learning ML,
   - Deep Learning DL.
